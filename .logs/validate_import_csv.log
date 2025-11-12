@@ -1,0 +1,112 @@
+2025-11-12 23:17:38,807 - INFO - Logging is started
+2025-11-12 23:17:38,824 - INFO - Data loaded successfully
+2025-11-12 23:17:38,828 - INFO - Email john.doe@company.com is valid
+2025-11-12 23:17:38,829 - INFO - Email maria.thomas@company.org is valid
+2025-11-12 23:17:38,830 - INFO - Email raj.kumar@corp.in is valid
+2025-11-12 23:17:38,830 - INFO - Email lisa.wong@enterprise.com is valid
+2025-11-12 23:17:38,830 - INFO - Email k.nair@bizsolutions.net is valid
+2025-11-12 23:17:38,832 - INFO - Email nan is invalid
+2025-11-12 23:17:38,832 - INFO - Email emma.smithcompany.com is invalid
+2025-11-12 23:17:38,834 - INFO - Email vikram@@org.com is invalid
+2025-11-12 23:17:38,835 - INFO - Email janet@company is invalid
+2025-11-12 23:17:38,836 - INFO - Email tommy chen@biz.com is invalid
+2025-11-12 23:17:38,838 - INFO - Email anita.rao@company.com is valid
+2025-11-12 23:17:38,840 - INFO - Email jose@empresa is invalid
+2025-11-12 23:17:38,841 - INFO - Email neha.sharma@company.com is valid
+2025-11-12 23:17:38,842 - INFO - Email ravi.patel@enterprise.org is valid
+2025-11-12 23:17:38,843 - INFO - Email susan.park@firm.net is valid
+2025-11-12 23:17:38,843 - INFO - Email peter.johnson@business.com is valid
+2025-11-12 23:17:38,845 - INFO - Email grace.lee@techcorp.in is valid
+2025-11-12 23:17:38,845 - INFO - Email arjun.das@company.org is valid
+2025-11-12 23:17:38,845 - INFO - Email emma.white@organization.com is valid
+2025-11-12 23:17:38,846 - INFO - Email henry.adams@solutions.net is valid
+2025-11-12 23:17:38,846 - INFO - Email sarah.khan@company.in is valid
+2025-11-12 23:17:38,846 - INFO - Email luke.miller@enterprise.com is valid
+2025-11-12 23:17:38,848 - INFO - Email karen.davis@bizsolutions.com is valid
+2025-11-12 23:17:38,849 - INFO - Email sameer.gupta@company.org is valid
+2025-11-12 23:17:38,850 - INFO - Email alice.brown@firm.com is valid
+2025-11-12 23:17:38,852 - INFO - Email david.patel@company is invalid
+2025-11-12 23:17:38,853 - INFO - Email olivia.moore@company.org is valid
+2025-11-12 23:17:38,855 - INFO - Email william.clark@corp.net is valid
+2025-11-12 23:17:38,856 - INFO - Email emily.harris@solutions.com is valid
+2025-11-12 23:17:38,857 - INFO - Email noah.wilson@enterprise.in is valid
+2025-11-12 23:17:38,857 - INFO - Email aarav.mehta@company.com is valid
+2025-11-12 23:17:38,858 - INFO - Email ethan.lewis@company.org is valid
+2025-11-12 23:17:38,858 - INFO - Email chloe.turner@firm.com is valid
+2025-11-12 23:17:38,858 - INFO - Email isabella.scott@organization.net is valid
+2025-11-12 23:17:38,859 - INFO - Email michael.brown@company.in is valid
+2025-11-12 23:17:38,859 - INFO - Email sophia.johnson@enterprise.com is valid
+2025-11-12 23:17:38,859 - INFO - Email daniel.lee@company is invalid
+2025-11-12 23:17:38,862 - INFO - Email mia.davis@bizsolutions.com is valid
+2025-11-12 23:17:38,863 - INFO - Email jacob.taylor@firm.org is valid
+2025-11-12 23:17:38,865 - INFO - Email ava.thomas@organization.com is valid
+2025-11-12 23:17:38,865 - INFO - Email james.white@company.com is valid
+2025-11-12 23:17:38,866 - INFO - Email ella.green@@company.com is invalid
+2025-11-12 23:17:38,866 - INFO - Email lucas.hall@enterprise.net is valid
+2025-11-12 23:17:38,867 - INFO - Email lily.adams@company.in is valid
+2025-11-12 23:17:38,867 - INFO - Email jack.bakercompany.com is invalid
+2025-11-12 23:17:38,868 - INFO - Email charlotte.king@organization.org is valid
+2025-11-12 23:17:38,869 - INFO - Email matthew.young@company is invalid
+2025-11-12 23:17:38,870 - INFO - Email saanvi.sharma@enterprise.com is valid
+2025-11-12 23:17:38,871 - INFO - Email ryan.brown@firm.net is valid
+2025-11-12 23:17:38,872 - INFO - Email harper.wilson@organization.com is valid
+2025-11-12 23:17:38,873 - INFO - total valid rows39 | total invalid_rows 11
+2025-11-12 23:17:39,068 - INFO - Database connected successfully
+2025-11-12 23:17:39,206 - INFO - Data imported successfully
+2025-11-12 23:17:39,208 - INFO - Database connection closed.
+2025-11-13 00:21:39,898 - INFO - Logging is started
+2025-11-13 00:21:39,918 - INFO - Data loaded successfully
+2025-11-13 00:21:39,924 - INFO - Email john.doe@company.com is valid
+2025-11-13 00:21:39,926 - INFO - Email maria.thomas@company.org is valid
+2025-11-13 00:21:39,927 - INFO - Email raj.kumar@corp.in is valid
+2025-11-13 00:21:39,928 - INFO - Email lisa.wong@enterprise.com is valid
+2025-11-13 00:21:39,931 - INFO - Email k.nair@bizsolutions.net is valid
+2025-11-13 00:21:39,931 - INFO - Email nan is invalid
+2025-11-13 00:21:39,932 - INFO - Email emma.smithcompany.com is invalid
+2025-11-13 00:21:39,932 - INFO - Email vikram@@org.com is invalid
+2025-11-13 00:21:39,933 - INFO - Email janet@company is invalid
+2025-11-13 00:21:39,934 - INFO - Email tommy chen@biz.com is invalid
+2025-11-13 00:21:39,937 - INFO - Email anita.rao@company.com is valid
+2025-11-13 00:21:39,938 - INFO - Email jose@empresa is invalid
+2025-11-13 00:21:39,938 - INFO - Email neha.sharma@company.com is valid
+2025-11-13 00:21:39,938 - INFO - Email ravi.patel@enterprise.org is valid
+2025-11-13 00:21:39,940 - INFO - Email susan.park@firm.net is valid
+2025-11-13 00:21:39,940 - INFO - Email peter.johnson@business.com is valid
+2025-11-13 00:21:39,941 - INFO - Email grace.lee@techcorp.in is valid
+2025-11-13 00:21:39,942 - INFO - Email arjun.das@company.org is valid
+2025-11-13 00:21:39,944 - INFO - Email emma.white@organization.com is valid
+2025-11-13 00:21:39,944 - INFO - Email henry.adams@solutions.net is valid
+2025-11-13 00:21:39,945 - INFO - Email sarah.khan@company.in is valid
+2025-11-13 00:21:39,945 - INFO - Email luke.miller@enterprise.com is valid
+2025-11-13 00:21:39,945 - INFO - Email karen.davis@bizsolutions.com is valid
+2025-11-13 00:21:39,946 - INFO - Email sameer.gupta@company.org is valid
+2025-11-13 00:21:39,952 - INFO - Email alice.brown@firm.com is valid
+2025-11-13 00:21:39,952 - INFO - Email david.patel@company is invalid
+2025-11-13 00:21:39,954 - INFO - Email olivia.moore@company.org is valid
+2025-11-13 00:21:39,955 - INFO - Email william.clark@corp.net is valid
+2025-11-13 00:21:39,956 - INFO - Email emily.harris@solutions.com is valid
+2025-11-13 00:21:39,957 - INFO - Email noah.wilson@enterprise.in is valid
+2025-11-13 00:21:39,957 - INFO - Email aarav.mehta@company.com is valid
+2025-11-13 00:21:39,957 - INFO - Email ethan.lewis@company.org is valid
+2025-11-13 00:21:39,959 - INFO - Email chloe.turner@firm.com is valid
+2025-11-13 00:21:39,959 - INFO - Email isabella.scott@organization.net is valid
+2025-11-13 00:21:39,960 - INFO - Email michael.brown@company.in is valid
+2025-11-13 00:21:39,960 - INFO - Email sophia.johnson@enterprise.com is valid
+2025-11-13 00:21:39,961 - INFO - Email daniel.lee@company is invalid
+2025-11-13 00:21:39,964 - INFO - Email mia.davis@bizsolutions.com is valid
+2025-11-13 00:21:39,965 - INFO - Email jacob.taylor@firm.org is valid
+2025-11-13 00:21:39,966 - INFO - Email ava.thomas@organization.com is valid
+2025-11-13 00:21:39,967 - INFO - Email james.white@company.com is valid
+2025-11-13 00:21:39,967 - INFO - Email ella.green@@company.com is invalid
+2025-11-13 00:21:39,970 - INFO - Email lucas.hall@enterprise.net is valid
+2025-11-13 00:21:39,970 - INFO - Email lily.adams@company.in is valid
+2025-11-13 00:21:39,970 - INFO - Email jack.bakercompany.com is invalid
+2025-11-13 00:21:39,971 - INFO - Email charlotte.king@organization.org is valid
+2025-11-13 00:21:39,971 - INFO - Email matthew.young@company is invalid
+2025-11-13 00:21:39,972 - INFO - Email saanvi.sharma@enterprise.com is valid
+2025-11-13 00:21:39,972 - INFO - Email ryan.brown@firm.net is valid
+2025-11-13 00:21:39,972 - INFO - Email harper.wilson@organization.com is valid
+2025-11-13 00:21:39,973 - INFO - total valid rows39 | total invalid_rows 11
+2025-11-13 00:21:40,193 - INFO - Database connected successfully
+2025-11-13 00:21:40,307 - INFO - Data imported successfully
+2025-11-13 00:21:40,308 - INFO - Database connection closed.
