@@ -21,8 +21,9 @@ def save_weather():
 if __name__ == "__main__":
     scheduler = BlockingScheduler()
 
-    scheduler.add_job(save_weather, 'cron', hour='7,13,20', minute=0)
-    scheduler.add_job(save_weather, 'interval', minutes=1)
+    #scheduler.add_job(save_weather, 'cron', hour='7,13,20', minute=0)
+    scheduler.add_job(save_weather, 'interval', seconds=30)
 
-    print("Scheduler started. Running at 7 AM, 1 PM, and 8 PM.")
+    #print("Scheduler started. Running at 7 AM, 1 PM, and 8 PM.")
+    print("data will be fetched every 30 seconds.")
     scheduler.start()
